@@ -1,0 +1,15 @@
+{
+  "name": "report",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "exceljs": "^4.4.0",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  }
+}
